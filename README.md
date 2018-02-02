@@ -1,5 +1,7 @@
 # brivv
 
+We have these imperfect APIs called ears, mouths, and eyes. They are hard to interface with. We want everyone and every entity to have better APIs. We want better, clearer communication.
+
 Programmatic email.
 
 Augmenting natural language with programming languages.
