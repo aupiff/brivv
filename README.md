@@ -9,8 +9,8 @@ email templates.
 
 Clients maintain template state, equivalent to contract state on Ethereum
 blockchain. Clients can variably expose template state via API similar to web3.
-Smart contract code nor state need not be revealed to users; rather, only an ABI
-need be encoded in an email.
+Niether smart contract code nor state need be revealed to users; rather, only an ABI
+must be encoded in an email.
 
 ---
 
