@@ -20,7 +20,7 @@ are written not to endure but to be sent and sent quickly. But there is profit
 to be extracted, besides speed, from the cold medium of today.
 
 brivv is a transhuminist project that aims to transform modern languages into
-lambda calculus-influenced argot that will make language precise where
+a lambda calculus-influenced argot that will make language precise where
 precision is needed and allow human interactions to accumulate program state,
 both ephemeral and eternal.
 
