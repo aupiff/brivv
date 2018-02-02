@@ -32,6 +32,9 @@ decentralized model of yesteryear. Everyone should be in control of their email
 server and emails should be private. [Lavabit](https://lavabit.com) and
 [Protonmail](https://protonmail.com) don't even come close to what we need.
 
+Whenever a user is ready to leave my platform and host their own email server, the process should take 10 minutes and they shouldn't lose their identity (email address) or email history.
+
+
 ## Phase 2
 
 Email thread state, email client-compiler response type-checking. Support for
