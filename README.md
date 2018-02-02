@@ -46,6 +46,12 @@ You're a lawyer who creates LLCs for clients. You have a client intake form (a t
 
 Email programs can expose template state for public contracts used for scheduling meetings, for example. A lawyer has a calendar contract that exposes information about when he has time for a call; certain privileged clients could book calls automatically.
 
+---
+
+The largest influence on my thinking is the UI of a theorem-proved like Coq (https://en.wikipedia.org/wiki/Coq) or Agda. Mathematicians depend on these programs to make certain mistakes impossible to make. Similarly, this email client will make it impossible to not respond to questions posed by a user, e.g. attach a c.v & tell me how your mother's doing & tell me how old you are. This is all very simple stuff, but mix into this all the other apis available, e.g. NYSE prices, weather reports, and you've got a way to automate and disambiguate a lot of communications.
+
+All the robo-personal assistant companies will be made irrelevant (https://claralabs.com/). You don't need robots to schedule things for you, you just need to augment email with bits of argot, a precise legalese.
+
 ## Phase 3
 
 Calculus of Inductive Constructions
