@@ -37,6 +37,12 @@ server and emails should be private. [Lavabit](https://lavabit.com) and
 Email thread state, email client-compiler response type-checking. Support for
 simply-typed LC.
 
+An very simple example:
+
+You're a lawyer who creates LLCs for clients. You have a client intake form (a template which exists at some smart contract address in your local client) that you send out to be filled out by 100 different individuals. The individuals respond to your smart-contract-in-email-form using their email programs. The clients' email programs refuse to send a message if their response doesn't match the ABI of your intake form template. Your email program would reject any emails that do not match your template ABI too, in case the client's email program is buggy. After you have received all the intake forms forms from clients, you would map over the necessary data for each client, transmit it to London's incorporation API (also a simple, private email-based smart contract), and wait for a new tax ID. Simple people will be able to set up apis for everything, effortlessly. We don't need centralized servers to make APIs or store data. Spam is much less of an issue because of cryptographic signatures and reputation systems.
+
+Email programs can expose template state for public contracts used for scheduling meetings, for example. A lawyer has a calendar contract that exposes information about when he has time for a call; certain privileged clients could book calls automatically.
+
 ## Phase 3
 
 Calculus of Inductive Constructions
