@@ -58,7 +58,7 @@ the process should take 10 minutes and they shouldn't lose their identity
 Email thread state, email client-compiler response type-checking. Support for
 simply-typed LC.
 
-An very simple example:
+A very simple example:
 
 You're a lawyer who creates LLCs for clients. You have a client intake form (a
 template which exists at some smart contract address in your local client) that
