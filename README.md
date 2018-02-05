@@ -70,7 +70,8 @@ emails that do not match your template ABI too, in case the client's email
 program is buggy. After you have received all the intake forms forms from
 clients, you would map over the necessary data for each client, transmit it to
 London's incorporation API (also a simple, private email-based smart contract),
-and wait for a new tax ID. Simple people will be able to set up apis for
+and wait for a messages from the London Gov't containing new tax IDs for the LLCs.
+Simple people will be able to set up apis for
 everything, effortlessly. We don't need centralized servers to make APIs or
 store data. Spam is much less of an issue because of cryptographic signatures
 and reputation systems.
