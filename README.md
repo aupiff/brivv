@@ -83,8 +83,8 @@ book calls automatically.
 
 ---
 
-The largest influence on my thinking is the UI of a theorem-prover like Coq
-(https://en.wikipedia.org/wiki/Coq) or Agda. Mathematicians depend on these
+The largest influence on my thinking is the UI of a theorem-prover like
+[Coq](https://en.wikipedia.org/wiki/Coq) or Agda. Mathematicians depend on these
 programs to make certain mistakes impossible to make. Similarly, this email
 client will make it impossible to not respond to questions posed by a user,
 e.g. attach a c.v & tell me how your mother's doing & tell me how old you are.
@@ -92,9 +92,9 @@ This is all very simple stuff, but mix into this all the other apis available,
 e.g. NYSE prices, weather reports, and you've got a way to automate and
 disambiguate a lot of communications.
 
-All the robo-personal assistant companies will be made irrelevant
-(https://claralabs.com/). You don't need robots to schedule things for you, you
-just need to augment email with bits of argot, a precise legalese.
+All the robo-personal assistant companies will be made
+[irrelevant](https://claralabs.com/). You don't need robots to schedule things
+for you, you just need to augment email with bits of argot, a precise legalese.
 
 ## Phase 3
 
