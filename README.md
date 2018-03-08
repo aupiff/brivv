@@ -83,7 +83,7 @@ book calls automatically.
 
 ---
 
-The largest influence on my thinking is the UI of a theorem-proved like Coq
+The largest influence on my thinking is the UI of a theorem-prover like Coq
 (https://en.wikipedia.org/wiki/Coq) or Agda. Mathematicians depend on these
 programs to make certain mistakes impossible to make. Similarly, this email
 client will make it impossible to not respond to questions posed by a user,
